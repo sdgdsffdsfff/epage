@@ -28,7 +28,7 @@ npm install epage -S
 
 ## Release
  
-This repository is the core dependency of the designer and renderer. For more renderer andd other open source code, see: [https://github.com/epage-team](https://github.com/epage-team)。
+This repository is the core dependency of the designer and renderer. To view the change log, please visit [CHANGLOG](./CHANGELOG.md). For more renderer andd other open source code, see: [https://github.com/epage-team](https://github.com/epage-team)。
 
 ## Usage
 
@@ -50,6 +50,11 @@ The project originated from the process form scenario. The custom development of
  
 Earlier in the development of epage, we carried out the design based on the native dom node rendering, so that the designer and the renderer were separated to achieve multiple designs at one time. [How to develop widget?](http://epage.didichuxing.com/developer/widget.html)
 
+## Communication Group
+
+Wechat group
+
+![](https://github.com/didi/epage/blob/master/public/imgs/epage-qrcode.jpg?raw=true)
 
 ## License
 
